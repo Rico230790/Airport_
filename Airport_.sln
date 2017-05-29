@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport_", "Airport_\Airport_.csproj", "{378A37D0-B9B5-4224-93EE-97A321AC69BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportDAL", "AirportDAL\AirportDAL.csproj", "{CA823707-7CFE-4D19-965A-097272F1C753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportModels", "AirportModels\AirportModels.csproj", "{B95D1ABD-A787-4A17-BF60-A768BDACEA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378A37D0-B9B5-4224-93EE-97A321AC69BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378A37D0-B9B5-4224-93EE-97A321AC69BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378A37D0-B9B5-4224-93EE-97A321AC69BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378A37D0-B9B5-4224-93EE-97A321AC69BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA823707-7CFE-4D19-965A-097272F1C753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA823707-7CFE-4D19-965A-097272F1C753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA823707-7CFE-4D19-965A-097272F1C753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA823707-7CFE-4D19-965A-097272F1C753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95D1ABD-A787-4A17-BF60-A768BDACEA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95D1ABD-A787-4A17-BF60-A768BDACEA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95D1ABD-A787-4A17-BF60-A768BDACEA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95D1ABD-A787-4A17-BF60-A768BDACEA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
